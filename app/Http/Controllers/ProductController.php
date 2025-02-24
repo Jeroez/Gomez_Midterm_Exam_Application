@@ -1,5 +1,6 @@
 <?php
-
+// ummm... idk if it working... laravel or composer malfunctioning rn huhuhuhu
+//atleast 3rd commit na huhuhu 
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
